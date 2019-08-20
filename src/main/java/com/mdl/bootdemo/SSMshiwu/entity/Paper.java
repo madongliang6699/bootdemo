@@ -1,4 +1,4 @@
-package com.mdl.bootdemo.entity;
+package com.mdl.bootdemo.SSMshiwu.entity;
 
 /**
  * @author ：madongliang

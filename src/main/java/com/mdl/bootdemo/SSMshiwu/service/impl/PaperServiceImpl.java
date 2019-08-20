@@ -1,16 +1,14 @@
-package com.mdl.bootdemo.service.impl;
+package com.mdl.bootdemo.SSMshiwu.service.impl;
 
 
-import com.mdl.bootdemo.dao.PaperDao;
-import com.mdl.bootdemo.entity.Paper;
-import com.mdl.bootdemo.service.PaperService;
-import com.mdl.bootdemo.service.PaperService2;
+import com.mdl.bootdemo.SSMshiwu.dao.PaperDao;
+import com.mdl.bootdemo.SSMshiwu.entity.Paper;
+import com.mdl.bootdemo.SSMshiwu.service.PaperService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 
 import javax.annotation.Resource;
-import java.beans.Transient;
 import java.util.List;
 
 /**

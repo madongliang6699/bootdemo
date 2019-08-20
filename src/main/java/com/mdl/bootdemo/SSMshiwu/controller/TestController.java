@@ -1,4 +1,4 @@
-package com.mdl.bootdemo.com.mdl.controller;
+package com.mdl.bootdemo.SSMshiwu.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

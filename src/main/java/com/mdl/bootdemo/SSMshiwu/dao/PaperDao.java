@@ -1,7 +1,7 @@
-package com.mdl.bootdemo.dao;
+package com.mdl.bootdemo.SSMshiwu.dao;
 
 
-import com.mdl.bootdemo.entity.Paper;
+import com.mdl.bootdemo.SSMshiwu.entity.Paper;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

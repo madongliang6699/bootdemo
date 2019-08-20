@@ -1,4 +1,4 @@
-package com.mdl.bootdemo.service.impl;
+package com.mdl.bootdemo.SSMshiwu.service.impl;
 
 import com.ssm.dao.PaperDao;
 import com.ssm.entity.Paper;

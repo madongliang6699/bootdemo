@@ -1,9 +1,9 @@
-package com.mdl.bootdemo.dao.impl;
+package com.mdl.bootdemo.SSMshiwu.dao.impl;
 
 
 
-import com.mdl.bootdemo.dao.PaperDao;
-import com.mdl.bootdemo.entity.Paper;
+import com.mdl.bootdemo.SSMshiwu.dao.PaperDao;
+import com.mdl.bootdemo.SSMshiwu.entity.Paper;
 
 import java.util.List;
 

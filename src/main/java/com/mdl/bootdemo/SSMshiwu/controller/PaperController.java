@@ -1,7 +1,7 @@
-package com.mdl.bootdemo.com.mdl.controller;
+package com.mdl.bootdemo.SSMshiwu.controller;
 
-import com.mdl.bootdemo.entity.Paper;
-import com.mdl.bootdemo.service.PaperService;
+import com.mdl.bootdemo.SSMshiwu.entity.Paper;
+import com.mdl.bootdemo.SSMshiwu.service.PaperService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
